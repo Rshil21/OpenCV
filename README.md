@@ -1,18 +1,11 @@
-# 🖐🎮 Gesture-Based Game Controller using OpenCV + MediaPipe
+# Gesture-Based Game Controller using OpenCV + MediaPipe
 
 Control your favorite PC games with just your hand gestures!  
 This project uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to detect real-time hand gestures via webcam and simulate keyboard actions.
 
 ---
 
-## 📽️ Demo
-
-> 🎥 [Insert your demo video or GIF here]  
-> *(Example: waving a fist triggers `Ctrl` for attack, an open palm triggers `Space` to jump, etc.)*
-
----
-
-## 🚀 Features
+##  Features
 
 ✅ Detects real-time hand gestures from webcam  
 ✅ Recognizes:
@@ -27,7 +20,7 @@ This project uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to detect real-ti
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python**
 - **OpenCV** – Image processing & webcam feed
@@ -37,7 +30,7 @@ This project uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to detect real-ti
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repo:**
    ```bash
