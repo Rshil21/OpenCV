@@ -43,3 +43,9 @@ This project uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to detect real-ti
    ```bash
    git clone https://github.com/yourusername/gesture-game-controller-opencv.git
    cd gesture-game-controller-opencv
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the controller:
+   python main.py
+4. Make gestures in front of your webcam and watch them trigger game actions!
+   
